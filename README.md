@@ -1,4 +1,4 @@
-# Simple Interest Calculator
+# Simple Interest Calulator
 
 A simple interest calculator that calculates simple interest based on the principal amount, annual rate of interest, and time period.
 
