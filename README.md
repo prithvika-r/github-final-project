@@ -1,13 +1,6 @@
-# Simple Interest Calculator
+# Coursera-Getting-Started-with-Git-and-GitHub-Final-Project
+Getting Started with Git and GitHub Peer Graded Project
 
-A simple Bash-based calculator that computes simple interest based on principal, rate of interest, and time period.
-
-## Formula
-
-Simple Interest = (Principal × Rate × Time) / 100
-
-## Input
-
-- Principal
-- Rate of Interest
-- Time Period
+# Final Project Repo
+This repository contains the final project for my peer-reviewed course. 
+It includes all required files for the assignment.
