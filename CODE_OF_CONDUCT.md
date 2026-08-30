@@ -1,7 +1,53 @@
-Contributor Covenant Code of Conduct
-We expect all contributors to adhere to the following rules of conduct.
+# Contributor Covenant Code of Conduct
 
-Be respectful to others.
-Use welcoming and inclusive language.
-Respect differing viewpoints.
-Violations of this code may result in being blocked from the repository.
+## Our Pledge
+
+We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone.
+
+We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
+
+## Our Standards
+
+Examples of behavior that contributes to a positive environment include:
+
+- Demonstrating empathy and kindness toward other people.
+- Being respectful of differing opinions, viewpoints, and experiences.
+- Giving and gracefully accepting constructive feedback.
+- Accepting responsibility and apologizing to those affected by our mistakes.
+- Focusing on what is best for the community.
+
+Examples of unacceptable behavior include:
+
+- Trolling, insulting or derogatory comments, and personal or political attacks.
+- Public or private harassment.
+- Publishing others' private information without permission.
+- Other conduct which could reasonably be considered inappropriate in a professional setting.
+
+## Enforcement Responsibilities
+
+Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to behavior that violates this Code of Conduct.
+
+## Scope
+
+This Code of Conduct applies within all community spaces and also applies when an individual is officially representing the community in public spaces.
+
+## Enforcement
+
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement.
+
+All complaints will be reviewed and investigated promptly and fairly.
+
+## Enforcement Guidelines
+
+Community leaders will follow these guidelines in determining consequences:
+
+1. Correction
+2. Warning
+3. Temporary suspension
+4. Permanent ban
+
+Community leaders may skip these steps when the behavior is severe enough to require immediate action.
+
+## Attribution
+
+This Code of Conduct is adapted from the Contributor Covenant, version 2.1.

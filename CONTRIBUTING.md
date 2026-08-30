@@ -1,7 +1,14 @@
-Contributing to the Project
-Thank you for considering contributing!
+# Contributing
 
-How to contribute:
-Fork the repository.
-Create a new branch for your feature or bugfix.
-Submit a pull request and ensure it adheres to the project's code of conduct.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
+## How to Contribute
+
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Make your changes.
+4. Commit your changes.
+5. Push your branch to your fork.
+6. Create a pull request.
+
+Please make sure your contributions follow the project's guidelines.
